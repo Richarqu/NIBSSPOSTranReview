@@ -1,0 +1,18 @@
+C:\Users\Olaniranqr\Documents\Visual Studio 2015\Projects\DevOps\0620AutoReversal\0620AutoReversal\0620AutoReversal\bin\Release\0620AutoReversal.exe.config
+C:\Users\Olaniranqr\Documents\Visual Studio 2015\Projects\DevOps\0620AutoReversal\0620AutoReversal\0620AutoReversal\bin\Release\0620AutoReversal.exe
+C:\Users\Olaniranqr\Documents\Visual Studio 2015\Projects\DevOps\0620AutoReversal\0620AutoReversal\0620AutoReversal\bin\Release\0620AutoReversal.pdb
+C:\Users\Olaniranqr\Documents\Visual Studio 2015\Projects\DevOps\0620AutoReversal\0620AutoReversal\0620AutoReversal\bin\Release\MSSQL.dll
+C:\Users\Olaniranqr\Documents\Visual Studio 2015\Projects\DevOps\0620AutoReversal\0620AutoReversal\0620AutoReversal\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Olaniranqr\Documents\Visual Studio 2015\Projects\DevOps\0620AutoReversal\0620AutoReversal\0620AutoReversal\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Olaniranqr\Documents\Visual Studio 2015\Projects\DevOps\0620AutoReversal\0620AutoReversal\0620AutoReversal\obj\Release\0620AutoReversal.exe
+C:\Users\Olaniranqr\Documents\Visual Studio 2015\Projects\DevOps\0620AutoReversal\0620AutoReversal\0620AutoReversal\obj\Release\0620AutoReversal.pdb
+C:\Users\adm_olaniranqr\Downloads\0620AutoReversal\0620AutoReversal\0620AutoReversal\bin\Release\0620AutoReversal.exe.config
+C:\Users\adm_olaniranqr\Downloads\0620AutoReversal\0620AutoReversal\0620AutoReversal\bin\Release\0620AutoReversal.exe
+C:\Users\adm_olaniranqr\Downloads\0620AutoReversal\0620AutoReversal\0620AutoReversal\bin\Release\0620AutoReversal.pdb
+C:\Users\adm_olaniranqr\Downloads\0620AutoReversal\0620AutoReversal\0620AutoReversal\bin\Release\Microsoft.Data.Tools.Components.dll
+C:\Users\adm_olaniranqr\Downloads\0620AutoReversal\0620AutoReversal\0620AutoReversal\bin\Release\MSSQL.dll
+C:\Users\adm_olaniranqr\Downloads\0620AutoReversal\0620AutoReversal\0620AutoReversal\obj\Release\0620AutoReversal.csproj.CoreCompileInputs.cache
+C:\Users\adm_olaniranqr\Downloads\0620AutoReversal\0620AutoReversal\0620AutoReversal\obj\Release\0620AutoReversal.csproj.CopyComplete
+C:\Users\adm_olaniranqr\Downloads\0620AutoReversal\0620AutoReversal\0620AutoReversal\obj\Release\0620AutoReversal.exe
+C:\Users\adm_olaniranqr\Downloads\0620AutoReversal\0620AutoReversal\0620AutoReversal\obj\Release\0620AutoReversal.pdb
+C:\Users\adm_olaniranqr\Downloads\0620AutoReversal\0620AutoReversal\0620AutoReversal\obj\Release\0620AutoReversal.csprojAssemblyReference.cache
